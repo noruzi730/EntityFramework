@@ -9,6 +9,8 @@ namespace MusicStore
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            // Test 
+
         }
     }
 }
